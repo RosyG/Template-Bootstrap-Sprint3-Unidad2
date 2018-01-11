@@ -1,0 +1,12 @@
+.container-fluid {
+  background-color: black;
+}
+.jumbotron {
+
+  background-color: gray;
+
+}
+
+.border-down {
+  border-bottom: 1px solid black;
+}
